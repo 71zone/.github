@@ -10,7 +10,7 @@
 
 Danh mục dịch vụ theo tiêu chuẩn thực tế của 71.zone:
 
-- **Website doanh nghiệp & landing page**: Thiết kế theo nhận diện, tải nhanh, tối ưu trên điện thoại (từ 500.000đ).
+- **Website doanh nghiệp & landing page**: Thiết kế theo nhận diện, tải nhanh, tối ưu trên điện thoại (một trang từ 500.000đ).
 - **Web app & công cụ nội bộ**: Ứng dụng web quản lý đơn hàng, bán hàng, khách hàng, số hoá dữ liệu vận hành.
 - **Ứng dụng di động**: App cho iPhone và Android trong cùng một dự án.
 - **Phần mềm theo yêu cầu**: Xây dựng theo quy trình riêng của từng đơn vị, chuyển đổi biểu mẫu và bảng tính Excel thành phần mềm.
