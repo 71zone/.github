@@ -32,3 +32,5 @@ Danh mục dịch vụ theo tiêu chuẩn thực tế của 71.zone:
 Dự án mã nguồn mở phát triển bởi 71.zone:
 
 - [Ladilala](https://github.com/71zone/ladilala): Ứng dụng Windows gồm trình quản lý hồ sơ trình duyệt (mỗi hồ sơ có fingerprint, proxy và nhân trình duyệt riêng) và công cụ ghi, phát macro web tự điền biểu mẫu từ dữ liệu CSV, Excel, JSON hoặc REST. Có trình quản lý cập nhật. Giao diện mặc định tiếng Việt, có tiếng Anh. Phiên bản 1.1.0 ra ngày 17/11/2026.
+- [wabgpt](https://github.com/71zone/wabgpt): Cầu nối tự host đưa tin nhắn WhatsApp của các liên hệ được chọn tới ChatGPT và gửi câu trả lời về. Có cài đặt hướng dẫn, dự án riêng cho từng liên hệ, bảng điều khiển trên terminal và web.
+- [agent-poisoner](https://github.com/71zone/agent-poisoner): Bộ công cụ làm nhiễu mã sau khi build để các agent LLM khó đọc: tên định danh lấy từ bộ từ vựng đối kháng, số thành biểu thức, câu thành tên hàm và comment. Có lõi dùng chung và adapter cho Vite.
