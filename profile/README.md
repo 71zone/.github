@@ -29,10 +29,6 @@ Danh mục dịch vụ theo tiêu chuẩn thực tế của 71.zone:
 
 ### Công cụ mã nguồn mở / Open Source
 
-Các công cụ và thư viện mã nguồn mở phát triển bởi 71.zone:
+Dự án mã nguồn mở phát triển bởi 71.zone:
 
-- [hemcss](https://github.com/71zone/hemcss): Thư viện CSS components ngữ nghĩa, OKLCH tokens, cascade layers, không phụ thuộc Tailwind ([demo](https://71zone.github.io/hemcss/)).
-- [envpush](https://github.com/71zone/envpush): CLI và server tự host quản lý biến môi trường (`.env`) bảo mật cho nhóm nhỏ.
-- [rundev](https://github.com/71zone/rundev): CLI khởi chạy dev server thông minh và tự động chuyển đổi file cấu hình môi trường.
-- [ccm](https://github.com/71zone/ccm): CLI quản lý Claude Code agents, skills, commands và cấu hình MCP từ nhiều Git repo.
 - [Ladilala](https://github.com/71zone/ladilala): Ứng dụng Windows gồm trình quản lý hồ sơ trình duyệt (mỗi hồ sơ có fingerprint, proxy và nhân trình duyệt riêng) và công cụ ghi, phát macro web tự điền biểu mẫu từ dữ liệu CSV, Excel, JSON hoặc REST. Có trình quản lý cập nhật. Giao diện mặc định tiếng Việt, có tiếng Anh. Phiên bản 1.1.0 ra ngày 17/11/2026.
