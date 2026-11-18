@@ -27,9 +27,9 @@ Danh mục dịch vụ theo tiêu chuẩn thực tế của 71.zone. *What we of
 - Cổng thông tin / Portal: [aichodoanhnghiep.71.zone](https://aichodoanhnghiep.71.zone)
 - Nhóm thảo luận Facebook / Facebook discussion group: [facebook.com/groups/1469664531758088](https://www.facebook.com/groups/1469664531758088)
 
-### Công cụ mã nguồn mở / Open Source
+### Công cụ / Tools
 
-Dự án mã nguồn mở phát triển bởi 71.zone. *Open source projects by 71.zone:*
+Công cụ do 71.zone phát triển, mã nguồn công khai trên GitHub. *Tools built by 71.zone, code public on GitHub:*
 
 - [Ladilala](https://github.com/71zone/ladilala): Ứng dụng Windows gồm trình quản lý hồ sơ trình duyệt (mỗi hồ sơ có fingerprint, proxy và nhân trình duyệt riêng) và công cụ ghi, phát macro web tự điền biểu mẫu từ dữ liệu CSV, Excel, JSON hoặc REST. Có trình quản lý cập nhật. Giao diện mặc định tiếng Việt, có tiếng Anh. Phiên bản 1.1.0 ra ngày 17/11/2026. *A Windows app with a browser profile manager (each profile has its own fingerprint, proxy and browser engine) and a web macro recorder and player that fills forms from CSV, Excel, JSON or REST data. Includes an update manager. UI is Vietnamese by default, with English. Version 1.1.0 released 2026-11-17.*
 - [wabgpt](https://github.com/71zone/wabgpt): Cầu nối tự host đưa tin nhắn WhatsApp của các liên hệ được chọn tới ChatGPT và gửi câu trả lời về. Có cài đặt hướng dẫn, dự án riêng cho từng liên hệ, bảng điều khiển trên terminal và web. *A self-hosted bridge that forwards selected contacts' WhatsApp messages to ChatGPT and sends the replies back. Guided setup, per-contact projects, terminal and web dashboards.*
